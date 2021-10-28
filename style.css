@@ -557,13 +557,14 @@ footer span a:hover{
      #about{
         justify-content: center;
         padding-top: 0px;
-        height: 110vh;
+        height: 150vh;
+        width: 100%;
        }
        .about-text{
-        width: 90%;
+        width: 100%;
        }
        .about-text h1{
-        font-size:4rem;
+        font-size:2rem;
        }
 
        #contact{
